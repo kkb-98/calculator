@@ -50,10 +50,11 @@ int multi(int a, int b)
 {
 	//TODO implementation
 	return a*b;
-}
+
  
 int div(int a, int b)
 {
-	//TODO implementation
-	return 0;
+	int result = 0;
+	result = a / b
+	return result;
 }
