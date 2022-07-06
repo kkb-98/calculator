@@ -47,13 +47,15 @@ int sub(int a, int b)
 }
  
 int multi(int a, int b)
-{
-	//TODO implementation
-	return 0;
+{	
+	int result = 0;
+	result = a * b;
+	return result;
 }
  
 int div(int a, int b)
 {
-	//TODO implementation
-	return 0;
+	int result = 0;
+	result = a / b
+	return result;
 }
